@@ -1,0 +1,11 @@
+user_id,full_name,gender,age,region,registration_date
+1,Amina Mohamed,Female,28,Nairobi,2025-01-15 08:30:00
+2,John Kamau,Male,34,Kiambu,2025-02-10 14:15:00
+3,Mercy Chebet,Female,22,Nakuru,2025-03-01 10:00:00
+4,David Omondi,Male,41,Mombasa,2025-03-12 11:45:00
+5,Faith Wambui,Female,29,Kiambu,2025-04-05 16:20:00
+6,Kevin Kiprop,Male,25,Uasin Gishu,2025-05-18 09:10:00
+7,Hassan Ali,Male,38,Mombasa,2025-06-02 13:00:00
+8,Grace Achieng,Female,31,Kisumu,2025-07-20 15:50:00
+9,Peter Njoroge,Male,45,Machakos,2025-08-11 07:40:00
+10,Joy Mwende,Female,24,Machakos,2025-09-01 12:30:00

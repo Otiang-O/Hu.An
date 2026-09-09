@@ -1,0 +1,12 @@
+transaction_id,user_id,amount,transaction_type,transaction_date
+901,1,2375.00,loan_disbursement,2026-01-10 09:00:00
+902,1,125.00,savings_allocation,2026-01-10 09:00:00
+903,2,9500.00,loan_disbursement,2026-02-01 11:20:00
+904,2,500.00,savings_allocation,2026-02-01 11:20:00
+905,3,950.00,loan_disbursement,2025-11-05 16:45:00
+906,3,50.00,savings_allocation,2025-11-05 16:45:00
+907,1,2500.00,repayment,2026-01-20 15:30:00
+908,4,33250.00,loan_disbursement,2026-02-20 14:10:00
+909,4,1750.00,savings_allocation,2026-02-20 14:10:00
+910,5,4750.00,loan_disbursement,2026-01-15 10:00:00
+911,5,250.00,savings_allocation,2026-01-15 10:00:00
